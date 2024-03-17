@@ -1,0 +1,17 @@
+{
+    "name": "victo/api-rest-exercicio",
+    "autoload": {
+        "psr-4": {
+            "Victo\\ApiRestExercicio\\": "src/"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Victor Monterisi",
+            "email": "victoraugustobm1@gmail.com"
+        }
+    ]
+}
